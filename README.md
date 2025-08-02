@@ -23,23 +23,6 @@ I love building scalable web apps, exploring system-level programming, and solvi
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,express,mysql,mongodb,git,githubfigma,canva" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtakuNoDev&show_icons=true&theme=algolia&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtakuNoDev&layout=compact&theme=algolia" width="48%"/>
-</p>
-
----
-
 ### 🌱 Currently Exploring
 
 - Deep Learning (CNNs, RNNs, Transformers)
