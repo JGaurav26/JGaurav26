@@ -32,8 +32,6 @@ With expertise in **C, C++, Java, Git, SQL, HTML, CSS** and a **deep interest in
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | GPS to Google Maps URL Generator 🌍 | IoT mapping solution using ESP8266 + GPS module | C, IoT, Networking |
-| Data Analysis Dashboard | Interactive analytics platform | Python, Pandas, Plotly |
-| AI Chatbot with NLP 💬 | Intelligent conversational assistant | Python, ML, NLP, Flask |
 
 > 📂 *View more on my [GitHub Repositories](https://github.com/JGaurav26?tab=repositories)*
 
