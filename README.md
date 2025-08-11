@@ -62,7 +62,7 @@ With expertise in **C, C++, Java, Git, SQL, HTML, CSS** and a **deep interest in
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JGaurav26&theme=tokyonight&hide_border=true" height="170"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JGaurav26&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
   </a>
 </p>
 
