@@ -55,7 +55,7 @@ With expertise in **C, C++, Java, Git, SQL, HTML, CSS** and a **deep interest in
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGaurav26&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGaurav26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGaurav26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
