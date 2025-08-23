@@ -1,5 +1,5 @@
 # Gaurav Jadhav  
-**IEEE | Aspiring Full-Stack Developer | AI & Machine Learning Enthusiast** 🚀  
+**IEEE | Aspiring Full-Stack Developer | AI & Machine Learning Enthusiast**   
 
 ---
 
@@ -7,7 +7,7 @@
 I am a 2nd-year **B.Tech (Information Technology)** student passionate about building scalable, user-focused software solutions.  
 Currently serving as **President of the IT Tech Club at MMCOE** and **IEEE Day 2025 Ambassador**, I lead initiatives that foster coding culture, organize impactful events, and connect students with industry mentors.  
 
-With expertise in **C, C++, Java, Git, SQL, HTML, CSS** and a **deep interest in AI & Machine Learning** 🤖, I aim to design solutions that bridge innovation with real-world application.
+With expertise in **C, C++, Java, Git, SQL, HTML, CSS** and a **deep interest in AI & Machine Learning** , I aim to design solutions that bridge innovation with real-world application.
 
 ---
 
