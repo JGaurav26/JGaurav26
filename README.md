@@ -19,14 +19,6 @@ With expertise in **C, C++, Java, Git, SQL, HTML, CSS** and a **deep interest in
 
 ---
 
----
-
-## 🎯 Leadership & Achievements  
-- **President**, IT Tech Club – Leading 20+ members in workshops, hackathons & industry collaborations 🎯  
-- **IEEE Day 2025 Ambassador** – Representing IEEE at global technical events  
-- **MATLAB Certified** & **Pre-Placement Activity Program Certified**
-
----
 
 ## 💼 Selected Projects  
 | Project | Description | Tech Stack |
