@@ -12,9 +12,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 ---
 
 ## ⚡ Working Projects  
-- **GPS to Google Maps URL Generator 🌍** – IoT-based mapping solution using ESP8266 + GPS module  
-- **Java Swing Calculator** – Modern calculator with advanced features  
-- **Personal Portfolio Website** – Responsive web app showcasing skills & projects  
+- **  
 
 > 📂 More projects available on my [GitHub Repositories](https://github.com/JGaurav26?tab=repositories)  
 
