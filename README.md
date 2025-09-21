@@ -11,7 +11,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 
 ---
 
-## ⚡ Working Projects  
+## ⚡ Curretly Working on  
 - **Data Structure Visualizer**
 - **Edubridge - Low Bandwidth Classroom**
 - **Next Gen Virtual File System**
