@@ -49,5 +49,9 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 ---
 
 ## 📫 Connect with Me  
-📌 **LinkedIn:** [linkedin.com/in/gauravmakrandjadhav](https://www.linkedin.com/in/gauravmakrandjadhav)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav jadhav" height="30" width="40" /></a>
+</p>
+
 📧 **Email:** gauravmakarandjadhav@gmail.com  
