@@ -42,9 +42,9 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGaurav26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170"/>
 </p>  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGaurav26&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>  
+</p>   -->
 
 ---
 
