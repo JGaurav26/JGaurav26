@@ -69,7 +69,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
   <a href="https://your-link3.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/>
   </a>
-  <a href="https://your-link4.com" target="_blank">
+  <a href="https://wa.me/qr/FYOQUZTHZDIKA1" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"/>
   </a>
   <a href="mailto:gauravmakarandjadhav@gmail.com" target="_blank">
