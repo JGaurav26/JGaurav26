@@ -29,7 +29,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 
 ---
 
-## 🚀 Tech Stack  
+##   Tech Stack  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -54,10 +54,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 | ![JGaurav26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JGaurav26&rank_icon=percentile&show_icons=true&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![JGaurav26 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JGaurav26&background=fff&border=0A0209&stroke=0A0209&ring=0a1931&fire=0a1931&currStreakNum=0A0209&sideNums=0A0209&currStreakLabel=0a1931&sideLabels=0a1931&dates=0A0209&border_radius=8) |
 | -- | -- |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGaurav26&bg_color=fff&color=0A0209&line=0a1931&point=0a1931&area=true&hide_border=false" alt="GitHub Contribution Graph"/>
-</p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JGaurav26&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 ---
 
