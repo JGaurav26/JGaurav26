@@ -4,16 +4,12 @@
        alt="animated hello" 
        style="border-radius:8px;"/>
 </p>
+<br><br>
 
 <div align="center">
-
-  <span style="font-size: 50px; font-weight: bold;">Full-Stack (MERN) Developer | AI & Machine Learning Enthusiast</span>
+  <h3 style="font-weight: bold;">Full-Stack (MERN) Developer | AI & Machine Learning Enthusiast</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer GIF">
-
 </div>
-
-
-
 
 ## 🧑‍💻 About Me  
 2nd-year **B.Tech (Information Technology)** student with a passion for building scalable software solutions.  
