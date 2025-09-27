@@ -5,10 +5,13 @@
        style="border-radius:8px;"/>
 </p>
 
-# Gaurav Jadhav  
-**Full-Stack(MERN) Developer | AI & Machine Learning Enthusiast | IEEE Member**  
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <span style="font-size: 50px; font-weight: bold;">Full-Stack (MERN) Developer | AI & Machine Learning Enthusiast</span>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer GIF">
+
+</div>
+
 
 
 
