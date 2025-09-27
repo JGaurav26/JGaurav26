@@ -45,15 +45,19 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGaurav26&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGaurav26&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170"/>
-</p>  
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGaurav26&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>   -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## 📊 GitHub Analytics  
+
+| ![JGaurav26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JGaurav26&rank_icon=percentile&show_icons=true&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![JGaurav26 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JGaurav26&background=fff&border=0A0209&stroke=0A0209&ring=0a1931&fire=0a1931&currStreakNum=0A0209&sideNums=0A0209&currStreakLabel=0a1931&sideLabels=0a1931&dates=0A0209&border_radius=8) |
+| -- | -- |
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGaurav26&bg_color=fff&color=0A0209&line=0a1931&point=0a1931&area=true&hide_border=false" alt="GitHub Contribution Graph"/>
+</p>
+
 
 ---
 
@@ -86,3 +90,8 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJGaurav26&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+</div>
+
