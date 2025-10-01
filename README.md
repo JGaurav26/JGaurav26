@@ -99,15 +99,33 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <br>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">  
-![Discord](assets/icons/discord.svg)
+<p align="center">
+
+<a href="https://discord.com/users/YOUR-ID" target="_blank">
+  <img src="assets/icons/discord.svg" alt="Discord" width="40" height="40"/>
 </a>
 
-![GitHub](assets/icons/github.svg)
-![Instagram](assets/icons/instagram.svg)
-![LinkedIn](assets/icons/linkedin.svg)
-![Spotify](assets/icons/spotify.svg)
-![Telegram](assets/icons/telegram.svg)
+<a href="https://github.com/gauravmakrandjadhav" target="_blank">
+  <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR-USERNAME" target="_blank">
+  <img src="assets/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">
+  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://open.spotify.com/user/YOUR-ID" target="_blank">
+  <img src="assets/icons/spotify.svg" alt="Spotify" width="40" height="40"/>
+</a>
+
+<a href="https://t.me/YOUR-USERNAME" target="_blank">
+  <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
+</a>
+
+</p>
 
 </div>
 <hr>
