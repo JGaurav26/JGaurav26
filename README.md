@@ -23,6 +23,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 - **Data Structure Visualizer**
 - **Edubridge - Low Bandwidth Classroom**
 - **Next Gen Virtual File System**
+- **File Zipper Unzipper**
 
 > 📂 More projects available on my [GitHub Repositories](https://github.com/JGaurav26?tab=repositories)  
 
