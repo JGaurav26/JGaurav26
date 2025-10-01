@@ -65,12 +65,36 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 ---
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# My GitHub Metrics
+
+<details>
+  <summary>Expand</summary> 
+
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.followup.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.notable.contributions.svg) |
+| Achievements | Language Activity |
+| ![Achievements](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.achievements.svg) | ![Language Activity](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.languages.activity.svg) |
+| Discussions | Reactions |
+| ![Discussions](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.discussions.svg) | ![Reactions](https://raw.githubusercontent.com/JGaurav26/JGaurav26/main/assets/metrics.plugin.reactions.svg) |
+
+</details>                     
+<br>
+<hr>
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
-> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains. You can find all the social links at [anmolbaranwal.com/links](https://anmolbaranwal.com/links).
+> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains. You can find all the social links down below.
 
 <br>
 <hr>
