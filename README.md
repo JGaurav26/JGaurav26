@@ -97,32 +97,23 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 > I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains. You can find all the social links down below.
 
 <br>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">  
+![Discord](assets/icons/discord.svg)
+</a>
+
+![GitHub](assets/icons/github.svg)
+![Instagram](assets/icons/instagram.svg)
+![LinkedIn](assets/icons/linkedin.svg)
+![Spotify](assets/icons/spotify.svg)
+![Telegram](assets/icons/telegram.svg)
+
+</div>
 <hr>
 
-![large-light-discord](large/light/discord.svg)
-![large-light-dribbble](large/light/dribbble.svg)
-![large-light-facebook](large/light/facebook.svg)
-![large-light-github](large/light/github.svg)
-![large-light-gitlab](large/light/gitlab.svg)
-![large-light-instagram](large/light/instagram.svg)
-![large-light-linkedin](large/light/linkedin.svg)
-![large-light-large](large/light/medium.svg)
-![large-light-messenger](large/light/messenger.svg)
-![large-light-pinterest](large/light/pinterest.svg)
-![large-light-quora](large/light/quora.svg)
-![large-light-reddit](large/light/reddit.svg)
-![large-light-skype](large/light/skype.svg)
-![large-light-spotify](large/light/spotify.svg)
-![large-light-telegram](large/light/telegram.svg)
-![large-light-tiktok](large/light/tiktok.svg)
-![large-light-twitch](large/light/twitch.svg)
-![large-light-twitter](large/light/twitter.svg)
-![large-light-twitter-x](large/light/twitter-x.svg)
-![large-light-youtube](large/light/youtube.svg)
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">
+  
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
   </a>
   <a href="https://your-link2.com" target="_blank">
