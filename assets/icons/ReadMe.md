@@ -1,1 +1,1 @@
-Icons used
+all the icons used in the readme fild
