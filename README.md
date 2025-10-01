@@ -72,9 +72,8 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 |:---------|:-------------:|:----------:|:-------------------|
 | Next Gen Virtual File System | - | [view](https://github.com/JGaurav26/NextGen-Virtual-File-System) | `C` `C++` |
 | File Zipper Unzipper | - | [view](https://github.com/JGAurav26/) | `Java` | 
-| Designlyfe | [view](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Audily (Hackathon-24hr) | [view](https://audily-ai.vercel.app/) | [view](https://github.com/Builders-Valley/Audily-AI) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
-| Arcjet Demo | [view](https://arcjet-demo.vercel.app/) | [view](https://github.com/Anmol-Baranwal/arcjet-demo) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
+| ChyperPress | - | [view](https://github.com/JGaurav26/CHYPERPRESS) | `Work in Progress` | 
+| EduBridge - Virtual Classroom Ecosystem | - | [view](https://github.com/JGaurav26/EduBridge) | ` Work in Progress ` |
 
 <br>
 
