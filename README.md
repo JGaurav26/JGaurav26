@@ -121,7 +121,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
        onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/gauravmakrandjadhav" target="_blank">
+<a href="https://github.com/JGaurav26" target="_blank">
   <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"
        style="transition: transform 0.3s;" 
        onmouseover="this.style.transform='scale(1.2)'" 
