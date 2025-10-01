@@ -99,8 +99,6 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <br>
 <div align="center">
 
-<p align="center">
-
 <a href="https://discord.com/users/YOUR-ID" target="_blank">
   <img src="assets/icons/discord.svg" alt="Discord" width="40" height="40"/>
 </a>&nbsp;&nbsp;
@@ -124,8 +122,10 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <a href="https://t.me/YOUR-USERNAME" target="_blank">
   <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
 </a>&nbsp;&nbsp;
-</p>
- <a href="mailto:gauravmakarandjadhav@gmail.com">
+
+<br><br>
+
+<a href="mailto:gauravmakarandjadhav@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" 
        alt="email of Gaurav i.e. gauraavmakarandjadhav@gmail.com" />
 </a>
