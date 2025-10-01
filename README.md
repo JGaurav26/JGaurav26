@@ -124,14 +124,11 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <a href="https://t.me/YOUR-USERNAME" target="_blank">
   <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
 </a>&nbsp;&nbsp;
-
 </p>
-<p align="center">
-  📩 <b>You can mail me at:</b><br><br>
-  <a href="mailto:gauravmakarandjadhav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gauravmakarandjadhav%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+ <a href="mailto:gauravmakarandjadhav@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" 
+       alt="email of Gaurav i.e. gauraavmakarandjadhav@gmail.com" />
+</a>
 
 </div>
 <hr>
