@@ -99,6 +99,27 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <br>
 <hr>
 
+![large-light-discord](large/light/discord.svg)
+![large-light-dribbble](large/light/dribbble.svg)
+![large-light-facebook](large/light/facebook.svg)
+![large-light-github](large/light/github.svg)
+![large-light-gitlab](large/light/gitlab.svg)
+![large-light-instagram](large/light/instagram.svg)
+![large-light-linkedin](large/light/linkedin.svg)
+![large-light-large](large/light/medium.svg)
+![large-light-messenger](large/light/messenger.svg)
+![large-light-pinterest](large/light/pinterest.svg)
+![large-light-quora](large/light/quora.svg)
+![large-light-reddit](large/light/reddit.svg)
+![large-light-skype](large/light/skype.svg)
+![large-light-spotify](large/light/spotify.svg)
+![large-light-telegram](large/light/telegram.svg)
+![large-light-tiktok](large/light/tiktok.svg)
+![large-light-twitch](large/light/twitch.svg)
+![large-light-twitter](large/light/twitter.svg)
+![large-light-twitter-x](large/light/twitter-x.svg)
+![large-light-youtube](large/light/youtube.svg)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">
