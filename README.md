@@ -7,6 +7,12 @@
 <br><br>
 
 <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJGaurav26&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+</div>
+
+
+<div align="center">
   <h3 style="font-weight: bold;">Full-Stack (MERN) Developer | AI & Machine Learning Enthusiast</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Developer GIF">
 </div>
@@ -87,8 +93,4 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJGaurav26&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-</div>
 
