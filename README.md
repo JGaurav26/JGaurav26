@@ -126,6 +126,12 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 </a>&nbsp;&nbsp;
 
 </p>
+<p align="center">
+  📩 <b>You can mail me at:</b><br><br>
+  <a href="mailto:gauravmakarandjadhav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gauravmakarandjadhav%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 </div>
 <hr>
@@ -134,7 +140,3 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
-
- <a href="mailto:gauravmakarandjadhav@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="100"/>
-  </a>
