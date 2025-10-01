@@ -100,28 +100,46 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <div align="center">
 
 <a href="https://discord.com/users/YOUR-ID" target="_blank">
-  <img src="assets/icons/discord.svg" alt="Discord" width="40" height="40"/>
+  <img src="assets/icons/discord.svg" alt="Discord" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/gauravmakrandjadhav" target="_blank">
-  <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/YOUR-USERNAME" target="_blank">
-  <img src="assets/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  <img src="assets/icons/instagram.svg" alt="Instagram" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">
-  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://open.spotify.com/user/YOUR-ID" target="_blank">
-  <img src="assets/icons/spotify.svg" alt="Spotify" width="40" height="40"/>
+  <img src="assets/icons/spotify.svg" alt="Spotify" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://t.me/YOUR-USERNAME" target="_blank">
-  <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+  <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
 <br><br>
 
