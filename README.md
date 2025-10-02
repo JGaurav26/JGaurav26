@@ -135,7 +135,7 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
        onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://t.me/YOUR-USERNAME" target="_blank">
+<a href="https://t.me/+pre0lPwccANlNWU1" target="_blank">
   <img src="assets/icons/telegram.svg" alt="Telegram" width="40" height="40"
        style="transition: transform 0.3s;" 
        onmouseover="this.style.transform='scale(1.2)'" 
