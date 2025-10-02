@@ -149,6 +149,13 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
        onmouseout="this.style.transform='scale(1)'"/>
 </a>&nbsp;&nbsp;
 
+<a href="https://www.instagram.com/YOUR-USERNAME" target="_blank">
+  <img src="assets/icons/threads.svg" alt="Instagram" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://open.spotify.com/user/ethqu8zvvd3j43aqpb50blru2?si=cfda62efb71747a9" target="_blank">
   <img src="assets/icons/spotify.svg" alt="Spotify" width="40" height="40"
        style="transition: transform 0.3s;" 
