@@ -114,6 +114,13 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 <br>
 <div align="center">
 
+<a href="mailto:gauravmakarandjadhav@gmail.com" target="_blank">
+  <img src="assets/icons/gmail.png" alt="Gmail" width="40" height="40"
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'" 
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/gauravmakrandjadhav" target="_blank">
   <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"
        style="transition: transform 0.3s;" 
@@ -164,11 +171,6 @@ Skilled in **C, C++, Java, Python, SQL, HTML, CSS, JavaScript, Git, GitHub** wit
 </a>&nbsp;&nbsp;
 
 <br><br>
-
-<a href="mailto:gauravmakarandjadhav@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" 
-       alt="email of Gaurav i.e. gauraavmakarandjadhav@gmail.com" />
-</a>
 
 </div>
 <hr>
